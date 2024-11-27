@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Visite App](/project/build/index.html)
+[Visite App](http://hohlovkiril.github.io/Template-Chat-App/project/build/index.html)
 
 ## Available Scripts
 
